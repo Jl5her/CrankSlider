@@ -9,3 +9,4 @@ When running the application use the controls as follows
 * ``Left Click`` while hovering crank to drag and move.
 * ``Up Arrow`` while hovering to speed crank up.
 * ``Down Arrow`` while hovering to slow crank down.
+* ``Backspace`` while hovering to delete crank.
